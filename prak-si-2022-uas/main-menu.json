@@ -1,0 +1,41 @@
+{
+    "menu": [
+        {
+            "nama": "Data Kriteria",
+            "deskripsi": "...",
+            "gambar": "kredit-konten.jpg",
+            "link": "kriteria.php"
+        },
+        {
+            "nama": "Data Sub-Kriteria",
+            "deskripsi": "...",
+            "gambar": "kredit-konten.jpg",
+            "link": "subkriteria.php"
+        },
+        {
+            "nama": "Data Alternatif",
+            "deskripsi": "...",
+            "gambar": "kredit-konten.jpg",
+            "link": "alternatif.php"
+        },
+        {
+            "nama": "Data Penilaian",
+            "deskripsi": "...",
+            "gambar": "kredit-konten.jpg",
+            "link": "penilaian.php"
+        },
+        {
+            "nama": "Data Perhitungan",
+            "deskripsi": "...",
+            "gambar": "kredit-konten.jpg",
+            "link": "perhitungan.php"
+        },
+        {
+            "nama": "Data Hasil Akhir",
+            "deskripsi": "...",
+            "gambar": "kredit-konten.jpg",
+            "link": "hasil.php"
+        }
+        
+    ]
+}
